@@ -1,1 +1,2 @@
-## https://ywalia01.github.io/breaking-bad-react
+# Breaking-Bad-React
+A react app that uses the Breaking Bad API to load characters' information.
