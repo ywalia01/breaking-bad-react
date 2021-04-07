@@ -1,2 +1,2 @@
 # Breaking-Bad-React
-A react app that uses the Breaking Bad API to load characters' information.
+A React App that sends API requests and retrieves character information
